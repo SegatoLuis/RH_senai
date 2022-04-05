@@ -1,0 +1,18 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Tecnico de Testes",
+      "foto": "foto1.jpg",
+      "descricao": "Planejamento e execução de testes back end",
+      "salario": "5000"
+    },
+    {
+      "id": 2,
+      "nome": "Analista TI",
+      "Foto": "foto2.jpg",
+      "descricao": "Desenvolvimento de projetos FRONT END",
+      "salario": "5000"
+    }
+  ]
+}
